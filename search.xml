@@ -1,21 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/04/13/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>hexo备忘录</title>
+    <url>/2024/03/17/hexo%E5%A4%87%E5%BF%98%E5%BD%95/</url>
+    <content><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>为了防止之后可能又发生长时间不发博客以至于忘记怎么发的问题，创建一个备忘录来记录一些hexo的基本操作，以免以后要反复翻官方文档。</p>
+<h1 id="上传博客的基本操作"><a href="#上传博客的基本操作" class="headerlink" title="上传博客的基本操作"></a>上传博客的基本操作</h1><ol>
+<li>创建新的文章<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo new post &quot;文章名称&quot;</span><br></pre></td></tr></table></figure></li>
+<li>构建网站<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure></li>
+<li>在GitHub上部署网站<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>「终末列车去哪里」第一集杂谈</title>
+    <url>/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/</url>
+    <content><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>冬去春来，与芙莉莲一起长达半年的旅程也告一段落，告别了惨淡的1月季度后终于迎来了百花齐放的4月季度。在这个充满生机的春季中，有着不少我非常看好的番剧，有浴火重生的京吹3，还有被寄予厚望重演mygo神话的「GIRLS BAND CRY」，还有我单纯感兴趣题材的「夜晚的水母不会游泳」等。本文的所说的「<strong>终末列车去哪里</strong>」对于我一个电车爱好者和公路番爱好者来说，当然是必看的，刚好清明放假的第一天就已经更新的第一集，于是我来总结一下第一集的内容和我对于这一集的看法。</p>
+<h1 id="正篇"><a href="#正篇" class="headerlink" title="正篇"></a>正篇</h1><h2 id="本集概括"><a href="#本集概括" class="headerlink" title="本集概括"></a>本集概括</h2><p><code>剧透警告</code><br>首先一开篇，我们的女主之一（<strong>中富 葉香</strong>）在日常的下了电车之后，突然被拉礼炮的群众包围，被莫名其妙的直升机猫头鹰送到了某个大楼的顶部（奇妙的展开），原来只是因为她刚好成为7g网络的第77777个用户，被邀请（强制）参加了这个庆祝活动。本应是一个简单的启动仪式，没想到7g的启动却使这个世界变得奇怪了。</p>
+<p><img src="/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/image-2.png" alt="alt text"></p>
+<p>在op之后，镜头一转，视角切换到了埼玉県的吾野駅。此时已经是7g启动事故发生的两年后了。在事故发生后，成年人全部都变成了尚且保持理智的<strong>动物</strong>外型，而未成年人没有什么变化，但变成动物的人们在震惊之后还是选择了继续生活，于是就介绍了番剧中的剩下几个主角，分别为一直在寻找<strong>葉香</strong>的<strong>千倉 静留</strong>，与其同学<strong>星 撫子</strong>、<strong>久賀 玲実</strong>、<strong>東雲 晶</strong>，事故后失去理智并老了20岁但保持人形的电车驾驶员<strong>善治郎</strong>和葉香家曾经的狗<strong>波奇先生</strong>。在这个秩序混乱的世界中，每一个村庄都像是一个孤岛，但是还有每个月来一次的<strong>黑豹车队</strong>负责运送快递和物资，和能够近距离通讯的小灵通。通过黑豹车队的猫哥所知，变成动物的人类正在逐渐失去理智，变成完全的动物。在撫子从黑豹车队那里订购的桃木花中，发现了一张报纸，在这个来自上个月的报纸的照片中赫然出现了<strong>葉香</strong>，让千倉一行人知道了葉香现在正在池袋。</p>
+<p><img src="/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/image-1.png" alt="alt text"></p>
+<p><img src="/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/image-3.png" alt="alt text"></p>
+<p>在千倉和波奇先生散步时，偶然发现了善治郎先生其实正在找帽子，在一路的引导后千倉在废弃的电车中找到了善治郎先生的车长帽，在千倉为善治郎戴上他的帽子后，善治郎竟然突然重返青春，恢复理智，并在说出7g的重大危害和开发商的无责任心后又变回老年状态。经过几次的来回切换之后，千倉了解了基本情况，在经过一晚上的准备之后，千倉决定<strong>亲自</strong>驾驶电车前往<strong>池袋</strong>，拯救好友和世界。由于姬友们不能放心千倉一个人前往池袋，于是也一同搭上电车，与其偕行。随着电车的发动，电车前端的显示器也由空白转为了“池袋”。于是，少女们前往“<strong>目的地</strong>”的旅程，就此开始了。。。</p>
+<p><img src="/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/image.png" alt="alt text"></p>
+<h2 id="杂谈"><a href="#杂谈" class="headerlink" title="杂谈"></a>杂谈</h2><p>目前但从第一集还不能对这整部番剧盖棺定论，因此，接下来仅仅是对第一集的杂谈。</p>
+<p>第一部分葉香突然就被抓走参加7g活动也太无厘头了吧。不过日本人还是一如既往的会讽刺自己啊。</p>
+<p><img src="/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/image-5.png" alt="alt text"></p>
+<p><img src="/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/image-4.png" alt="alt text"></p>
+<p><img src="/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/image-6.png" alt="alt text"></p>
+<p>言归正传，虽然在第一集中，列车显示的目的地是池袋，但是既然番剧的名字叫做「终末列车去<strong>哪里</strong>」。因此，我觉得可能目的地在之后可能不会是池袋，但是结尾也有写道距离池袋30站，基本上就说明了目前的目的地就是池袋（感觉说了一大堆废话）。</p>
+<p>但是如果抛开对于目的地的猜想，我认为这个番剧在列车行进的过程中主角之间的互动才是重要看点。</p>
+<p>到现在，这个番留下了2个主要的悬念。</p>
+<p>1.葉香和千倉具体分别的原因，到现在只知道她们之间闹了矛盾，毕竟对话全都是谜语人。</p>
+<p><img src="/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/image-7.png" alt="alt text"></p>
+<p>2.葉香为什么留在了池袋，仍继续和代理人活动。</p>
+<p><img src="/2024/04/04/%E3%80%8C%E7%BB%88%E6%9C%AB%E5%88%97%E8%BD%A6%E5%8E%BB%E5%93%AA%E9%87%8C%E3%80%8D%E7%AC%AC%E4%B8%80%E9%9B%86%E6%9D%82%E8%B0%88/image-1.png" alt="alt text"></p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>目前所给的信息还非常有限，第一集的制作方面也没有出现太大问题，于是决定继续追这部番剧。希望能为我的4月带来不错的体验。</p>
+]]></content>
+      <tags>
+        <tag>动画</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>双休后在家写作业</title>
+    <url>/2024/03/17/%E5%8F%8C%E4%BC%91%E5%90%8E%E5%9C%A8%E5%AE%B6%E5%86%99%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>在明德这种学校中居然获得的双休，这是过去不敢想的。但无论如何，我现在的想法也仅仅是享受当下，毕竟双休在高二下学期度过完后也就不复存在了。这也许不是坏事，毕竟高三要面临高考，由学校给的压力来是我成绩提高，一年也就忍过去了。</p>
+<h1 id="关于在家写作业"><a href="#关于在家写作业" class="headerlink" title="关于在家写作业"></a>关于在家写作业</h1><p><img src="/2024/03/17/%E5%8F%8C%E4%BC%91%E5%90%8E%E5%9C%A8%E5%AE%B6%E5%86%99%E4%BD%9C%E4%B8%9A/1.png" alt="很棒的电台" title="很棒的电台"><br>在明德所待的过去的一年半中，我们都只能两周放不到一天的周末，以至于我把回家的机会看待的非常重。现在双休后在家时间长不少，但是过去那种珍惜在家时间的感觉没有消逝。因此我打心底不想在家中写作业，这被我视为浪费周末时间。这种想法是需要改变的，为了对抗我薄弱的意志力，选择图中这类音乐电台真是不错的选择，歌真的很不错。我成功的静下了心，希望这点继续发展。这个电台时间是很在之前就订阅了，但也只有在应付假期作业的时候用得到，现在也算排上用场了。<br><a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" title="电台地址">电台地址</a><br>当然，这个电台在国内也有bilibili平台直播，就不放出链接了。</p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>在新的学期中，希望我能磨练意志力，充分利用周末时间，这当然是最好的。
+    </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>新的开始</title>
+    <url>/2024/03/16/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+    <content><![CDATA[<p>之前的东西都没有实际内容啊，于是有了新的开始</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>白嫖卡大树kindle后救砖历程</title>
+    <url>/2024/03/23/%E7%99%BD%E5%AB%96%E5%8D%A1%E5%A4%A7%E6%A0%91kindle%E5%90%8E%E6%95%91%E7%A0%96%E5%8E%86%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>同学在前段时间突然入手了这台Kindle paperwrite1，然而体验未半而中道崩殂。这个kindle他自己留着也没用，毕竟他也不怎么吃泡面（bushi）。总之，这个kindle最后就落到我的手上了，而我的同学就另外入手了另一个kindle青春版。如果我手上的kindle能修好的话我也就可以开始看书了（我要看书！！！）</p>
+<h1 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h1><p>虽然放在这类很奇怪，但毕竟结果是失败了，原因未知。如果有人知道原因，可通过邮箱与我联系。</p>
+<p>注：请不要将此文章视为教程，因为我也失败了。</p>
+<h1 id="开始刷机"><a href="#开始刷机" class="headerlink" title="开始刷机"></a>开始刷机</h1><p>经过一周在学校中不能搜索资料就煎熬，回来后立马打开搜索引擎找教程。经过了解，这种卡大树的救砖需要拆机和使用ttl刷机，拆机有教程，而ttl刷机我之前刷电视盒子的时候有幸接触过，于是信心满满的开始刷机。</p>
+<p><img src="/2024/03/23/%E7%99%BD%E5%AB%96%E5%8D%A1%E5%A4%A7%E6%A0%91kindle%E5%90%8E%E6%95%91%E7%A0%96%E5%8E%86%E7%A8%8B/3.jpg" alt="拆机图片1" title="拆机图片1"></p>
+<p>刚开始的拆机过程一切顺利，在同学的帮助下用了不到10分钟就完成了全过程，亚马逊这个2012年的产品有这做工让我们两都尤为敬佩。</p>
+<p><img src="/2024/03/23/%E7%99%BD%E5%AB%96%E5%8D%A1%E5%A4%A7%E6%A0%91kindle%E5%90%8E%E6%95%91%E7%A0%96%E5%8E%86%E7%A8%8B/2.jpg" alt="拆机图片2" title="拆机图片2"></p>
+<p>OK，言归正传，让我们继续接下来的步骤。也就是开始刷机……</p>
+<p>但是…没错…戛然而止，在此遇到了重大问题。我反复的用各种姿势连接ttl线，各种端口的监听软件都试过了，但是不起任何效果，这个kindle在往端口输出了一些看不懂的东西之后就没有任何输出了。</p>
+<p><img src="/2024/03/23/%E7%99%BD%E5%AB%96%E5%8D%A1%E5%A4%A7%E6%A0%91kindle%E5%90%8E%E6%95%91%E7%A0%96%E5%8E%86%E7%A8%8B/1.png" alt="输出图片"></p>
+<p>无论如何重试，都没有反应。我怀疑我的连接方式，如图。</p>
+<p><img src="/2024/03/23/%E7%99%BD%E5%AB%96%E5%8D%A1%E5%A4%A7%E6%A0%91kindle%E5%90%8E%E6%95%91%E7%A0%96%E5%8E%86%E7%A8%8B/5.jpg" alt="连接ttl"></p>
+<p>过于抽象仿佛在给kindle的主板输液。至于为什么这么搞，主要原因还是触点太小了，以我个人的手法完全无法做到，于是还是采用了透明胶。在多次的反复重连和调整之后，kindle的端口没有输出任何东西，因此只好选择先放弃…</p>
+<p><img src="/2024/03/23/%E7%99%BD%E5%AB%96%E5%8D%A1%E5%A4%A7%E6%A0%91kindle%E5%90%8E%E6%95%91%E7%A0%96%E5%8E%86%E7%A8%8B/4.jpg" alt="反复连接"></p>
+<p>在当放弃的时候，逐渐拔掉电脑上连接的数据线等，结果电脑突然蓝屏了:(</p>
+<p><img src="/2024/03/23/%E7%99%BD%E5%AB%96%E5%8D%A1%E5%A4%A7%E6%A0%91kindle%E5%90%8E%E6%95%91%E7%A0%96%E5%8E%86%E7%A8%8B/6.jpg" alt="蓝屏"></p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>本来拿到这个kindle的时候信心满满的表示「我想看书」结果到最后，还是只能看“树”。对于失败的原因我也百思不得其解。在网络上翻了许多的文章之后，推测出原因可能是电压的问题，kindle需要1.8v，而我的ttl线有5v。可能是这个原因。如果有这类问题处理的经验，真的非常希望能联系！</p>
 ]]></content>
   </entry>
 </search>
