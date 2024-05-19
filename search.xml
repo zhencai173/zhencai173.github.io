@@ -88,4 +88,15 @@
     <content><![CDATA[<h1 id="vscode插件推荐"><a href="#vscode插件推荐" class="headerlink" title="vscode插件推荐"></a>vscode插件推荐</h1><p>如今的ai高速发展，对于编程也有极大的生产力提高，在vscode中CodeGeeX这个插件能够极大的便利编程过程。<br><a href="https://codegeex.cn/">https://codegeex.cn/</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>moo0前端显示</title>
+    <url>/2024/05/19/moo0%E5%89%8D%E7%AB%AF%E6%98%BE%E7%A4%BA/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在进行编程、文本编辑或同时操作多个窗口时，窗口的重叠和频繁切换常常让人感到沮丧。为了解决这一问题，我今天将介绍一款实用、多功能且轻量级的软件——Moo0前端显示。</p>
+<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>您只需从官方网站下载安装程序，并按照提示步骤安装即可。为了便于使用，建议设置软件开机自启动，这不会对您的系统性能产生明显影响。</p>
+<h1 id="窗口管理"><a href="#窗口管理" class="headerlink" title="窗口管理"></a>窗口管理</h1><h2 id="前端显示"><a href="#前端显示" class="headerlink" title="前端显示"></a>前端显示</h2><p>该软件的核心功能是窗口的前端显示。安装并运行软件后，右键点击任何Windows窗口的标题栏，即可选择“前端显示”选项。勾选此选项后，所选窗口将保持在所有窗口的最上层。此外，您还可以使用快捷键CTRL+鼠标中键来快速固定窗口。</p>
+<h2 id="窗口透明度"><a href="#窗口透明度" class="headerlink" title="窗口透明度"></a>窗口透明度</h2><p>如果您希望同时查看前端显示窗口和其后的内容，该软件提供了调整窗口透明度的功能。这样，您既不会错过任何窗口的信息。甚至也能通过透明度设置尝试一些有趣的操作。</p>
+<h1 id="进程管理"><a href="#进程管理" class="headerlink" title="进程管理"></a>进程管理</h1><p>当应用程序无响应且您需要强制关闭时，通常需要打开任务管理器来结束进程。但是，Moo0前端显示允许您直接通过其菜单结束进程，避免了任务管理器可能导致的额外卡顿。除此之外，这里还能设置进程优先级和释放内存等操作。</p>
+<h2 id="结束进程"><a href="#结束进程" class="headerlink" title="结束进程"></a>结束进程</h2><h2 id="进程优先级"><a href="#进程优先级" class="headerlink" title="进程优先级"></a>进程优先级</h2><h2 id="释放未使用的内存"><a href="#释放未使用的内存" class="headerlink" title="释放未使用的内存"></a>释放未使用的内存</h2><h1 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h1><p>如果您需要快速了解当前打开程序的详细信息和位置，可以使用“找到程序”和“程序信息”功能。此外，软件还提供了截图、窗口移动和不同位置最大化的便捷功能，这些都能大幅提升您的工作效率。</p>
+<h2 id="找到程序"><a href="#找到程序" class="headerlink" title="找到程序"></a>找到程序</h2><h2 id="程序信息"><a href="#程序信息" class="headerlink" title="程序信息"></a>程序信息</h2><h2 id="移动、最大化"><a href="#移动、最大化" class="headerlink" title="移动、最大化"></a>移动、最大化</h2><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1>]]></content>
+  </entry>
 </search>
